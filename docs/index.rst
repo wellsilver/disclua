@@ -14,4 +14,4 @@ Contents
 
    Home <self>
    usage
-   api
+   text commands
